@@ -32,7 +32,7 @@ extern "C" {
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#define ADCCONVERTEDVALUES_BUFFER_SIZE ((uint32_t) 4)
 /* USER CODE END Includes */
 
 /* Exported types ------------------------------------------------------------*/
