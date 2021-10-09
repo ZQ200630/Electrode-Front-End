@@ -331,12 +331,12 @@ ARM Macro Assembler    Page 6
 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M0 --apcs=interw
 ork --depend=electrode-front-end\startup_stm32f030x6.d -oelectrode-front-end\st
-artup_stm32f030x6.o -IC:\Users\28142\Desktop\Git\Electrode-Front-End\2.Firmware
-\Electrode-Front-End\MDK-ARM\RTE -IE:\Keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Incl
-ude -IE:\Keil5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F
-0xx\Include --predefine="__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA
- 518" --predefine="_RTE_ SETA 1" --predefine="STM32F030x6 SETA 1" --list=startu
-p_stm32f030x6.lst startup_stm32f030x6.s
+artup_stm32f030x6.o -I.\RTE\_Electrode-Front-End -IC:\Software\Keil\Pack\ARM\CM
+SIS\5.8.0\CMSIS\Core\Include -IC:\Software\Keil\Pack\Keil\STM32F0xx_DFP\2.1.0\D
+rivers\CMSIS\Device\ST\STM32F0xx\Include --predefine="__MICROLIB SETA 1" --pred
+efine="__UVISION_VERSION SETA 535" --predefine="_RTE_ SETA 1" --predefine="STM3
+2F030x6 SETA 1" --predefine="_RTE_ SETA 1" --list=startup_stm32f030x6.lst start
+up_stm32f030x6.s
 
 
 
