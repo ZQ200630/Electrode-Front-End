@@ -1,0 +1,13 @@
+electrode-front-end\mbtcp.o: ..\Drivers\MyDriver\SRC\MODBUS\mbtcp.c
+electrode-front-end\mbtcp.o: C:\Software\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+electrode-front-end\mbtcp.o: C:\Software\Keil\ARM\ARMCC\Bin\..\include\string.h
+electrode-front-end\mbtcp.o: ..\Drivers\MyDriver\INC\port.h
+electrode-front-end\mbtcp.o: C:\Software\Keil\ARM\ARMCC\Bin\..\include\assert.h
+electrode-front-end\mbtcp.o: C:\Software\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+electrode-front-end\mbtcp.o: C:\Software\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+electrode-front-end\mbtcp.o: ..\Drivers\MyDriver\INC\mb.h
+electrode-front-end\mbtcp.o: ..\Drivers\MyDriver\INC\mbport.h
+electrode-front-end\mbtcp.o: ..\Drivers\MyDriver\INC\mbproto.h
+electrode-front-end\mbtcp.o: ..\Drivers\MyDriver\INC\mbconfig.h
+electrode-front-end\mbtcp.o: ..\Drivers\MyDriver\INC\mbtcp.h
+electrode-front-end\mbtcp.o: ..\Drivers\MyDriver\INC\mbframe.h

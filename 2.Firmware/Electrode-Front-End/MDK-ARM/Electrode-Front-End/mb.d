@@ -1,0 +1,15 @@
+electrode-front-end\mb.o: ..\Drivers\MyDriver\SRC\MODBUS\mb.c
+electrode-front-end\mb.o: C:\Software\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+electrode-front-end\mb.o: C:\Software\Keil\ARM\ARMCC\Bin\..\include\string.h
+electrode-front-end\mb.o: ..\Drivers\MyDriver\INC\port.h
+electrode-front-end\mb.o: C:\Software\Keil\ARM\ARMCC\Bin\..\include\assert.h
+electrode-front-end\mb.o: C:\Software\Keil\ARM\ARMCC\Bin\..\include\inttypes.h
+electrode-front-end\mb.o: C:\Software\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+electrode-front-end\mb.o: ..\Drivers\MyDriver\INC\mb.h
+electrode-front-end\mb.o: ..\Drivers\MyDriver\INC\mbport.h
+electrode-front-end\mb.o: ..\Drivers\MyDriver\INC\mbproto.h
+electrode-front-end\mb.o: ..\Drivers\MyDriver\INC\mbconfig.h
+electrode-front-end\mb.o: ..\Drivers\MyDriver\INC\mbframe.h
+electrode-front-end\mb.o: ..\Drivers\MyDriver\INC\mbfunc.h
+electrode-front-end\mb.o: ..\Drivers\MyDriver\INC\mbrtu.h
+electrode-front-end\mb.o: ..\Drivers\MyDriver\INC\mbascii.h
