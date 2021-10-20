@@ -1,0 +1,141 @@
+Removed Pin From Net: NetName=RS485_TX Pin=U1-8
+Removed Pin From Net: NetName=RS485_RX Pin=U1-9
+Change component parameters: Designator = "R1"; Footprint = "R 0603_L"; UniqueID = "\WTUKTNYW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "R 0603_L"; UniqueID = "\IBHXDUHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R 0603_L"; UniqueID = "\PMZREWMY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "R 0603_L"; UniqueID = "\LKPNRHXN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "R 0603_L"; UniqueID = "\GHWESPKG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "R 0603_L"; UniqueID = "\ICWQRQVW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "R 0603_L"; UniqueID = "\XPTJQEFM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "R 0603_L"; UniqueID = "\AURQZCBM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27"; Footprint = "R 0603_L"; UniqueID = "\RFTHQVLH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U8"; Footprint = "FP-D0008A-MFG"; UniqueID = "\VUBIAWYS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Bandwidth"; Value = "1MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Common Mode Rejection Ratio"; Value = "50dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gain Bandwidth Product"; Value = "1MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Bias Current"; Value = "250nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Offset Voltage (Vos)"; Value = "7mV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = "440uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Amplifiers"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "210uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "160mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current per Channel"; Value = "160mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "50dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Slew Rate"; Value = "1V/μs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unity Gain Bandwidth Product"; Value = "1MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Gain"; Value = "100dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "C 0603_L"; UniqueID = "\UYWNCDVJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "C 0603_L"; UniqueID = "\TEQLDYKS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "C 0603_L"; UniqueID = "\AVUVDSUQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "C 0603_L"; UniqueID = "\YOGDPPOY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "C 0603_L"; UniqueID = "\FNXTAETB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "C 0603_L"; UniqueID = "\WDBLMRMZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "C 0603_L"; UniqueID = "\WGKEOZBZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "C 0603_L"; UniqueID = "\VXQDARUS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "C 0603_L"; UniqueID = "\NEEJAFEZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "C 0603_L"; UniqueID = "\DZAYBLZY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15"; Footprint = "C 0603_L"; UniqueID = "\BSNOICPC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16"; Footprint = "C 0603_L"; UniqueID = "\RDSCIDDF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17"; Footprint = "C 0603_L"; UniqueID = "\HLTTAPHQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23"; Footprint = "C 0603_L"; UniqueID = "\JJNWBTOD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24"; Footprint = "C 0603_L"; UniqueID = "\XKXIPBFB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26"; Footprint = "C 0603_L"; UniqueID = "\UTYBWKMZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33"; Footprint = "C 0603_L"; UniqueID = "\ZBJTEIVR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34"; Footprint = "C 0603_L"; UniqueID = "\VLSHJVOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RS485_RX Pin=U1-8
+Added Pin To Net: NetName=RS485_TX Pin=U1-9
+Change Class Name : Old Net Name=Sheet2 New Net Name=Electrode-Front-End-Digital
+Change Class Name : Old Net Name=Sheet3 New Net Name=Electrode-Front-End-Analog
